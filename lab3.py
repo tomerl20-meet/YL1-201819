@@ -1,0 +1,17 @@
+import turtle
+#turtle.fillcolor("black")
+#turtle.begin_fill()
+#turtle.fd(100)
+#turtle.right(90)
+#turtle.fd(100)
+#turtle.right(35)
+#turtle.fd(100)
+#turtle.right(115)
+#turtle.fd(100)
+#turtle.right(33)
+#turtle.fd(100)
+#turtle.end_fill()
+for i in range(200): 
+	turtle.fd(100)
+	turtle.right(154)
+turtle.mainloop()
